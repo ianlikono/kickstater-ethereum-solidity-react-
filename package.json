@@ -1,0 +1,9 @@
+{
+  "name": "kickstarter",
+  "version": "1.0.0",
+  "description": "Solidity ethereum and react ",
+  "main": "index.js",
+  "repository": "https://github.com/ianlikono/kickstater-ethereum-solidity-react-.git",
+  "author": "Ian Likono",
+  "license": "MIT"
+}
