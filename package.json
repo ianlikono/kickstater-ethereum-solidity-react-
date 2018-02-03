@@ -7,7 +7,8 @@
   "author": "Ian Likono",
   "license": "MIT",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "dev": "next dev"
   },
   "dependencies": {
     "fs-extra": "^5.0.0",
@@ -16,7 +17,13 @@
     "next": "4.1.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "semantic-ui-react": "^0.77.2",
     "solc": "^0.4.19",
+    "truffle-hdwallet-provider": "^0.0.3",
     "web3": "1.0.0-beta.26"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-equimper": "^2.2.2"
   }
 }
